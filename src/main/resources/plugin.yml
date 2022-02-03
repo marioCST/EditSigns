@@ -1,0 +1,6 @@
+name: EditSigns
+version: 1.0
+api: 1.0.13
+main: de.mariocst.editsigns.EditSigns
+author: marioCST
+description: Edit signs when interacting with them!
